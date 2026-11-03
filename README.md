@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github_banner.png" alt="achintya: building at the edge of quantum computing and AI" width="100%"/>
+<img src="./linkdin_banner.png" alt="achintya: building at the edge of quantum computing and AI" width="100%"/>
 
 <br/>
 
