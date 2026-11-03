@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Website](https://img.shields.io/badge/Website-achintya--akella.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://achintya-akella.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Achintya_Akella-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akella-achintya/)
 ![Qiskit](https://img.shields.io/badge/Qiskit-IBM_Quantum-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
 ![Location](https://img.shields.io/badge/Bengaluru-India-f43f5e?style=for-the-badge)
@@ -117,6 +118,6 @@ I think quantum computing will change how we explore space, discover materials a
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/akella-achintya/)** · **[GitHub](https://github.com/achintya007-arch)**
+**[Website](https://achintya-akella.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/akella-achintya/)** · **[GitHub](https://github.com/achintya007-arch)**
 
 </div>
