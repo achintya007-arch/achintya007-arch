@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Achintya Akella: quantum computing, AI, and loud guitar" width="100%"/>
+<img src="./github_banner.png" alt="achintya: building at the edge of quantum computing and AI" width="100%"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-B.Tech CS '27 at GITAM. Quantum researcher, systems builder, songwriter.
+**Achintya Akella**: B.Tech CS '27 at GITAM, Bengaluru. Quantum researcher, systems builder, songwriter.
 I'm working toward an MS in quantum computing and, eventually, a company building quantum-native AI infrastructure. This page is the trail so far.
 
 <br/>
